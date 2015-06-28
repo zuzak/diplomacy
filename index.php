@@ -2,7 +2,7 @@
 $data = file_get_contents( 'people.json' );
 $data = json_decode( $data );
 if ( isset( $_GET["id"] ) ) {
-  $person = $data[$_GET["id"]];
+  $person = $data[ filter_input( INPUT_GET, 'id', FILTER_SANITIZE_NUMBER_INT  ) ];
 } else {
   $person = $data[array_rand( $data )];
 }
