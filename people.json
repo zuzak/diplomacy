@@ -1,0 +1,129 @@
+[ {      "name": "Nigel Farage",
+      "sound": "nigel",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Nigel_Farage_MEP_1%2C_Strasbourg_-_Diliff.jpg",
+      "offset":20 
+    },
+    {
+      "name": "Barack Obama",
+      "sound": "barack",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
+      "offset": 10
+    },
+    {
+      "name": "Dick Cheney",
+      "sound": "dick",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Dick_Cheney.jpg",
+      "offset": 30
+    },
+    {
+      "name": "Angela Merkel",
+      "sound": "angela",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/f/f3/EPP_Summit_March_2012_%2819%29.jpg",
+      "offset":30
+    },
+    {
+      "name": "Bill Clinton",
+      "sound": "bill",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bill_Clinton.jpg",
+      "offset": 30
+    },
+    {
+      "name": "Al Gore",
+      "sound": "al",
+      "image":
+      "https://upload.wikimedia.org/wikipedia/commons/c/c5/Al_Gore%2C_Vice_President_of_the_United_States%2C_official_portrait_1994.jpg",
+      "offset": "30"
+    },
+    {
+      "name": "George W. Bush",
+      "sound": "dubya",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/d/d4/George-W-Bush.jpeg",
+      "offset":30
+    },
+    {
+      "name": "Elizabeth of Windsor",
+      "sound": "liz",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Elizabeth_II_greets_NASA_GSFC_employees%2C_May_8%2C_2007_edit.jpg",
+      "offset":20
+    },
+    {
+      "name": "David Cameron",
+      "sound": "dave",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/David_Cameron_official.jpg",
+      "offset":23 
+    },
+    {
+      "name": "Tony Blair",
+      "sound": "blair",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/MSC_2014_Blair_Mueller_MSC2014.jpg",
+      "offset": 30
+    },
+    {
+      "name": "William Hague",
+      "sound": "will",
+      "image":
+      "https://upload.wikimedia.org/wikipedia/commons/d/d7/Msc2011_Moe016_Hague.jpg",
+      "offset": 20
+    },
+    {
+      "name": "Jimmy Wales",
+      "sound": "jimbo",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/c/c8/Wikimedia_Conference_2013_-_board_meeting_10.JPG",
+      "offset": 30
+    },
+    {
+      "name": "François Hollande",
+      "sound": "franswarre",
+      "image":
+      "https://upload.wikimedia.org/wikipedia/commons/0/05/Fran%C3%A7ois_Hollande_Journ%C3%A9es_de_Nantes.jpg",
+      "offset": 30
+    },
+    {
+      "name":"Vladimir Putin",
+      "sound":"vladimir",
+	  "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Vladimir_Putin_-_2006.jpg",
+      "offset": 30
+    },
+    {
+      "name": "Nicolas Sarkozy",
+      "sound":"-vde sarkozy",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicolas_Sarkozy_-_World_Economic_Forum_Annual_Meeting_2011_2.jpg",
+      "offset":43
+    },
+    {
+      "name": "José Manuel Barroso",
+      "sound": "-ves barroso",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/8/85/Flickr_-_europeanpeoplesparty_-_EPP_Summit_21_June_2007_%287%29.jpg",
+      "offset":20
+    },
+    {
+      "name": "Hermann van Rompuy",
+      "sound":"-vde hermann",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/8/8d/Herman_Van_Rompuy_675.jpg",
+      "offset":30
+    },
+	{
+		"name": "Eric Pickles",
+		"sound": "pickles",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eric_Pickles_Official.jpg",
+		"offset": 20
+	},
+	{
+		"name": "Rob Jackson",
+		"sound": "jackson",
+		"image": "https://download.rjackson.me/misc/rajesh-1.jpg",
+		"offset": 23
+	},
+	{
+		"name": "Yanis Varoufakis",
+		"sound": "yanis",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Yanis-Varoufakis-Berlin-2015-02-05.jpg",
+		"offset": "27"
+	},
+	{
+		"name": "Elon Musk",
+		"sound":"musk",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Elon_Musk_2011_Shankbone.JPG",
+		"offset": "33"
+	}
+]
